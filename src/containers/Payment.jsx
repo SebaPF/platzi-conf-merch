@@ -7,6 +7,7 @@ import '../styles/components/Payment.css';
 import handleSumTotal from '../utils/handleSumTotal';
 
 const Payment = ({ history }) => {
+  console.log(history);
   const { state, addNewOrder } = useContext(AppContext);
   const { cart, buyer } = state;
 
