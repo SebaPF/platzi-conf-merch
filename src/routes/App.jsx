@@ -4,6 +4,9 @@
 // sb-zzev13340862@personal.example.com // 7JS|woF_ (Usuario y Pass)
 // access_token$sandbox$tbvvpkyf3rz7skmk$b215086b5638aceb1cc380e1c1dc376c
 // U335WTJHPSHZW // ID ACCOUNT
+
+// CI & CD CON 'GITHUB ACTIONS' + FIREBASE HOSTING + GIT en mi proyecto, CARPETA OCULTA DE GITHUB... //
+
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from '../containers/Home';
